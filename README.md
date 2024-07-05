@@ -7,13 +7,13 @@ Preprocesses and cleans the credit card transaction dataset,
 Uses SMOTE (Synthetic Minority Over-sampling Technique) to handle imbalanced data, 
 Trains an ANN model using the preprocessed and oversampled data, 
 Evaluates the performance of the trained model using various metrics, 
-Provides functionality to classify new transactions as fraudulent or legitimate, 
+Provides functionality to classify new transactions as fraudulent or legitimate.  
 
 Requirements : 
 Python 3.x, 
 Pandas, 
 Scikit-learn, 
-Keras, 
+Keras  
 
 Usage : 
 
