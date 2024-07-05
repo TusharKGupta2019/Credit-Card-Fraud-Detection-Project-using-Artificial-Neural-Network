@@ -32,5 +32,6 @@ Evaluate the model: The trained model will be evaluated using various performanc
 Classify new transactions: The trained model can be used to classify new credit card transactions as either fraudulent or legitimate.
 
 Acknowledgments
+
 This project was inspired by the growing need for effective credit card fraud detection systems and the potential of artificial neural networks in this domain. The dataset used in this project is publicly available and can be obtained from Kaggle.
-link to dataset - https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download
+Link to dataset - https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download
