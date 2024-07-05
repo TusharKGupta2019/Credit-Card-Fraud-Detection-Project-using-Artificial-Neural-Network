@@ -17,11 +17,17 @@ Keras,
 
 Usage : 
 Prepare the dataset: Ensure that the credit card transaction dataset is in a compatible format and located in the project directory.
+
 Run the Jupyter notebook: Open the CC Fraud Detection using ANN.ipynb file in Jupyter Notebook and execute the cells sequentially.
+
 Preprocess the data: The notebook will preprocess and clean the dataset, handling missing values and encoding categorical features.
+
 Apply SMOTE: SMOTE will be used to oversample the minority class (fraudulent transactions) to balance the dataset.
+
 Train the ANN model: The preprocessed and oversampled data will be used to train an artificial neural network model for credit card fraud detection.
+
 Evaluate the model: The trained model will be evaluated using various performance metrics such as accuracy, precision, recall, and F1-score.
+
 Classify new transactions: The trained model can be used to classify new credit card transactions as either fraudulent or legitimate.
 
 Acknowledgments
