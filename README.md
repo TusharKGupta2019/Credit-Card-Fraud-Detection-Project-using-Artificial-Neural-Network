@@ -2,20 +2,20 @@ Credit Card Fraud Detection using Artificial Neural Networks
 
 This project aims to develop an effective credit card fraud detection system using artificial neural networks (ANNs). The system is trained on a dataset of credit card transactions to learn patterns of fraudulent and legitimate transactions. Once trained, the ANN model can be used to classify new transactions as either fraudulent or legitimate, helping to prevent credit card fraud.
 
-Features
-Preprocesses and cleans the credit card transaction dataset
-Uses SMOTE (Synthetic Minority Over-sampling Technique) to handle imbalanced data
-Trains an ANN model using the preprocessed and oversampled data
-Evaluates the performance of the trained model using various metrics
-Provides functionality to classify new transactions as fraudulent or legitimate
+Features : 
+Preprocesses and cleans the credit card transaction dataset, 
+Uses SMOTE (Synthetic Minority Over-sampling Technique) to handle imbalanced data, 
+Trains an ANN model using the preprocessed and oversampled data, 
+Evaluates the performance of the trained model using various metrics, 
+Provides functionality to classify new transactions as fraudulent or legitimate, 
 
-Requirements
-Python 3.x
-Pandas
-Scikit-learn
-Keras
+Requirements : 
+Python 3.x, 
+Pandas, 
+Scikit-learn, 
+Keras, 
 
-Usage
+Usage : 
 Prepare the dataset: Ensure that the credit card transaction dataset is in a compatible format and located in the project directory.
 Run the Jupyter notebook: Open the CC Fraud Detection using ANN.ipynb file in Jupyter Notebook and execute the cells sequentially.
 Preprocess the data: The notebook will preprocess and clean the dataset, handling missing values and encoding categorical features.
