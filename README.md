@@ -16,6 +16,7 @@ Scikit-learn,
 Keras, 
 
 Usage : 
+
 Prepare the dataset: Ensure that the credit card transaction dataset is in a compatible format and located in the project directory.
 
 Run the Jupyter notebook: Open the CC Fraud Detection using ANN.ipynb file in Jupyter Notebook and execute the cells sequentially.
